@@ -1,0 +1,51 @@
+{
+  "auth": {
+    "account": "Your Account",
+    "login": "Login",
+    "register": "Register"
+  },
+  "header": {
+    "about": "About",
+    "login": "Login / Register",
+    "logout": "Logout",
+    "manage": "Manage"
+  },
+  "home": {
+    "listen": "Listen to Great Music!",
+    "songs": "Songs"
+  },
+  "login": {
+    "email": "Email",
+    "enteremail": "Enter Email",
+    "enterpassword": "Enter Password",
+    "password": "Password"
+  },
+  "manage": {
+    "my_songs": "My Songs"
+  },
+  "register": {
+    "accept": "I accept Music's {0}",
+    "age": "Age",
+    "confirmpassword": "Confirm Password",
+    "country": "Country",
+    "email": "Email",
+    "enteremail": "Enter Email",
+    "entername": "Enter Name",
+    "enterpassword": "Enter Password",
+    "name": "Name",
+    "password": "Password",
+    "profession": "Profession",
+    "tos": "Terms of service"
+  },
+  "song": {
+    "comment_count": "No comments | 1 Comment | Comments ({count})"
+  },
+  "submit": "Submit",
+  "upload": {
+    "dropfiles": "Drop your files here",
+    "upload": "Upload"
+  },
+  "validation": {
+    "field": "The field"
+  }
+}
